@@ -38,6 +38,37 @@ I help businesses automate repetitive tasks using AI-powered solutions, workflow
 
 ## 📌 Featured Project
 
+# WordPress Business Website
+
+## 🌐 Live Website
+
+https://nabtech8.wordpress.com
+
+## 📌 Overview
+
+This project showcases a professional WordPress business website built using WordPress. The website is responsive, mobile-friendly, and designed to help businesses establish a strong online presence.
+
+## ✨ Features
+
+- Responsive Design
+- Mobile Friendly
+- SEO Optimized
+- Contact Page
+- Business Landing Page
+- Fast Loading
+- Modern UI
+
+## 🛠 Technologies Used
+
+- WordPress
+- Elementor
+- HTML
+- CSS
+
+## 🔗 Live Demo
+
+https://nabtech8.wordpress.com
+
 ### JENONs FoodHub AI Automation
 
 An AI-powered restaurant automation system featuring:
