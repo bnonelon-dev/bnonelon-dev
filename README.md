@@ -28,6 +28,14 @@ I help businesses automate repetitive tasks using AI-powered solutions, workflow
 - GitHub
 - Supabase
 
+## 🚀 Current Projects
+
+- AI Restaurant Ordering System (JENONs FoodHub)
+- Facebook Messenger AI Chatbot
+- Business CRM Automation
+- WordPress Business Website
+- AI Workflow Automation with Make.com & n8n
+
 ## 📌 Featured Project
 
 ### JENONs FoodHub AI Automation
