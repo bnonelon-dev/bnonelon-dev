@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nonelon Francis Bueno
 
-## AI Automation Engineer | WordPress Developer | Workflow Automation Specialist
+## AI Automation Engineer | Workflow Automation Specialist | WordPress & AI Solutions Developer
 
 I help businesses automate repetitive tasks using AI-powered solutions, workflow automation, and modern web technologies.
 
