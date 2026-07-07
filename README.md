@@ -67,8 +67,6 @@ This project showcases a professional WordPress business website built using Wor
 
 ## 🔗 Live Demo
 
-https://nabtech8.wordpress.com
-
 ### JENONs FoodHub AI Automation
 
 An AI-powered restaurant automation system featuring:
