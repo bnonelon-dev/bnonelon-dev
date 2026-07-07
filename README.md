@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Nonelon Francis Bueno
 
-<!--
-**bnonelon-dev/bnonelon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation Engineer | WordPress Developer | Workflow Automation Specialist
 
-Here are some ideas to get you started:
+I help businesses automate repetitive tasks using AI-powered solutions, workflow automation, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Core Expertise
+
+- 🤖 AI Automation
+- ⚙️ n8n Workflow Development
+- 🔄 Make.com Automation
+- 💬 Facebook Messenger Automation
+- 🌐 WordPress Development
+- 🗄️ Supabase
+- 🔗 API Integrations
+- 📊 Business Process Automation
+
+## 🛠 Tech Stack
+
+- OpenAI
+- Google Gemini AI
+- Make.com
+- n8n
+- WordPress
+- HTML
+- CSS
+- JavaScript
+- GitHub
+- Supabase
+
+## 📌 Featured Project
+
+### JENONs FoodHub AI Automation
+
+An AI-powered restaurant automation system featuring:
+
+- Messenger AI Chatbot
+- Automated Order Processing
+- Customer Database
+- Telegram Notifications
+- WordPress Website
+- Business Workflow Automation
+
+## 📫 Let's Connect
+
+📧 bnonelon@gmail.com
+🌐 https://nabtech8.wordpress.com
+💼 LinkedIn: Nonelon Francis Bueno
